@@ -68,4 +68,8 @@ First four levels in [https://learngitbranching.js.org/](https://learngitbranchi
 
 ![Screenshot of completed level 4](/screenshots/A_Mixed_Bug/4.png)
 
+### 5
+
+![Screenshot of completed level 5](/screenshots/A_Mixed_Bug/5.png)
+
 ## Advanced Topics (Extra Credit)
