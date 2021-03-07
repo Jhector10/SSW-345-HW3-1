@@ -52,4 +52,8 @@ First four levels in [https://learngitbranching.js.org/](https://learngitbranchi
 
 ## A Mixed Bag
 
+### 1
+
+![Screenshot of completed level 1](/screenshots/A_Mixed_Bug/1.png)
+
 ## Advanced Topics (Extra Credit)
