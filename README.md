@@ -18,6 +18,10 @@ First four levels in [https://learngitbranching.js.org/](https://learngitbranchi
 
 ![Screenshot of completed level 2](/screenshots/Introduction_Sequence/3.png)
 
+### 4
+
+![Screenshot of completed level 2](/screenshots/Introduction_Sequence/4.png)
+
 ## Ramping Up
 
 ## Moving Work Around
