@@ -85,3 +85,7 @@ First four levels in [https://learngitbranching.js.org/](https://learngitbranchi
 ### 3
 
 ![Screenshot of completed level 3](/screenshots/Advanced_Topics/3.png)
+
+## Hollistic View of Completion
+
+![Screenshot of all completed levels on level selection modal](/screenshots/HollisticView.png)
