@@ -32,6 +32,10 @@ First four levels in [https://learngitbranching.js.org/](https://learngitbranchi
 
 ![Screenshot of completed level 1](/screenshots/Ramping_Up/2.png)
 
+### 3
+
+![Screenshot of completed level 1](/screenshots/Ramping_Up/3.png)
+
 ## Moving Work Around
 
 ## A Mixed Bag
