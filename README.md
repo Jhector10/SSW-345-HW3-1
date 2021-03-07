@@ -46,6 +46,10 @@ First four levels in [https://learngitbranching.js.org/](https://learngitbranchi
 
 ![Screenshot of completed level 1](/screenshots/Moving_Work_Around/1.png)
 
+### 2
+
+![Screenshot of completed level 2](/screenshots/Moving_Work_Around/2.png)
+
 ## A Mixed Bag
 
 ## Advanced Topics (Extra Credit)
