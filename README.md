@@ -16,6 +16,8 @@ First four levels in [https://learngitbranching.js.org/](https://learngitbranchi
 
 ## Ramping Up
 
+![Screenshot of completed level 2](/screenshots/Introduction_Sequence/3.png)
+
 ## Moving Work Around
 
 ## A Mixed Bag
